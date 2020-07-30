@@ -1,0 +1,109 @@
+*********WELCOME TO********* 
+****LOCKEDME APPLICATION****
+Developer: Suman Rani-----
+FSD Batch-1-----------
+Enter your choice :
+1. Retrieve the current users files in ascending order
+2. Business Operations menu
+3. Exit from application
+1
+Enter the folder path/name you want to retrieve:
+phase1
+Sorted Order of files:
+--------------------------------
+govind.txt
+kusum.txt
+raju.txt
+sachin.txt
+sita.txt
+suman.txt
+User 3.txt
+Enter your choice :
+1. Retrieve the current users files in ascending order
+2. Business Operations menu
+3. Exit from application
+1
+Enter the folder path/name you want to retrieve:
+C:\Users\hp\eclipse-workspace\Project1\phase1
+Sorted Order of files:
+--------------------------------
+govind.txt
+kusum.txt
+raju.txt
+sachin.txt
+sita.txt
+suman.txt
+User 3.txt
+Enter your choice :
+1. Retrieve the current users files in ascending order
+2. Business Operations menu
+3. Exit from application
+2
+Enter your choice for operations
+1. Add the user file
+2. Delete the user file
+3. Search for the user file
+4. Return to main menu.
+1
+Enter the user file name you want to add:
+boy
+boy file is already present
+Enter your choice for operations
+1. Add the user file
+2. Delete the user file
+3. Search for the user file
+4. Return to main menu.
+1
+Enter the user file name you want to add:
+girl
+girl User file is added to the application
+Enter your choice for operations
+1. Add the user file
+2. Delete the user file
+3. Search for the user file
+4. Return to main menu.
+2
+Enter the user file you want to delete:
+girl
+girl user file got deleted
+Enter your choice for operations
+1. Add the user file
+2. Delete the user file
+3. Search for the user file
+4. Return to main menu.
+2
+Enter the user file you want to delete:
+muskan
+File not found
+Enter your choice for operations
+1. Add the user file
+2. Delete the user file
+3. Search for the user file
+4. Return to main menu.
+3
+Enter the user file to be searched: 
+boy
+Searched file boy exists
+Enter your choice for operations
+1. Add the user file
+2. Delete the user file
+3. Search for the user file
+4. Return to main menu.
+3
+Enter the user file to be searched: 
+muskan
+Searched file muskan does not exists.
+Enter your choice for operations
+1. Add the user file
+2. Delete the user file
+3. Search for the user file
+4. Return to main menu.
+4
+You have navigated from the application operations
+Enter your choice :
+1. Retrieve the current users files in ascending order
+2. Business Operations menu
+3. Exit from application
+3
+---Exiting from the lockedme application---
+----------Thank You------
